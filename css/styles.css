@@ -10,6 +10,13 @@ body {
 	margin-top: 20%;
 }
 
+.info {
+	display: flex;
+	justify-content: center;
+	gap: 20px;
+	margin: 10px 0;
+}
+
 button {
 	background-color: #4caf50;
 	color: white;
